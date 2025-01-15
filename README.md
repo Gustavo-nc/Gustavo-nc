@@ -15,7 +15,7 @@
 
  
 ### Main skills:
-[![](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=)](https://skillicons.dev)
 
  
 ### Tools:
@@ -23,11 +23,11 @@
 
  
 ### Other Knowledge:
-[![](https://skillicons.dev/icons?i=linux,mint,ubuntu,mysql)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=linux,mysql,sqlite)](https://skillicons.dev)
 
   
 ### Studying in this moment:
-[![](https://skillicons.dev/icons?i=ts,js,react,java,spring)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=ts,js,react,html,css)](https://skillicons.dev)
 
 
 
