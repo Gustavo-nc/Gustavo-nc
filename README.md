@@ -15,7 +15,7 @@
 
  
 ### Main skills:
-[![](https://skillicons.dev/icons?i=)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
  
 ### Tools:
