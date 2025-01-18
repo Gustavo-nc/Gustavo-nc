@@ -26,8 +26,6 @@
 [![](https://skillicons.dev/icons?i=linux,mysql,sqlite)](https://skillicons.dev)
 
   
-### Studying in this moment:
-[![](https://skillicons.dev/icons?i=ts,js,react,html,css)](https://skillicons.dev)
 
 
 
